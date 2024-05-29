@@ -1,2 +1,2 @@
-# Intro_Data_Mining_Analytics_w_python
+# Intro_Data_Mining_Analytics
 Read through from book. 
