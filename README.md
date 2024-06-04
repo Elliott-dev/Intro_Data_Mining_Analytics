@@ -1,2 +1,2 @@
 # Intro_Data_Mining_Analytics
-Read through from book. 
+Exercises/ Notebooks from Book
